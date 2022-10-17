@@ -1,0 +1,25 @@
+.cards{
+    height: 300px;
+    width: 200px;
+    
+}
+.block{
+    height: 100px;
+    padding-left: 10px;
+}
+.block img{
+    width: 90px;
+    height: 90px;
+    border: 2px solid white;
+    border-radius: 50%;
+    box-shadow: 0 1px 8px rgba(250, 233, 233, 0.996);
+    margin-top: 50px;
+}
+.username{
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+.block p{
+    margin-bottom: 10px;
+    color: rgba(69, 67, 67, 0.996);
+}
