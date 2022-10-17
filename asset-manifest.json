@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/PracticeProject-2/static/css/main.ced55e87.css",
+    "main.js": "/PracticeProject-2/static/js/main.ceba21ae.js",
+    "index.html": "/PracticeProject-2/index.html",
+    "main.ced55e87.css.map": "/PracticeProject-2/static/css/main.ced55e87.css.map",
+    "main.ceba21ae.js.map": "/PracticeProject-2/static/js/main.ceba21ae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ced55e87.css",
+    "static/js/main.ceba21ae.js"
+  ]
+}
